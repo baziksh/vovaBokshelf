@@ -1,0 +1,21 @@
+img{
+    width: 100%;
+    height: 70%;
+}
+.book{
+    display: inline-block;
+    background-color: aliceblue;
+    width: 25%;
+    border: 4px black solid;
+    border-left-width: 20px;
+    border-left-color: brown;
+    height: 400px;
+    margin: 20px;
+}
+.container{
+    border: 4px black solid;
+    background-color: cadetblue; 
+    text-align: center;
+    height: fit-content; 
+    padding: 10% 5%;
+}
